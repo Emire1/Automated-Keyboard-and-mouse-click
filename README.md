@@ -1,5 +1,6 @@
 # Automated-Keyboard-and-mouse-click
 This simple script can open chrome and log you in into your Brockport blackboard account if you have your password already saved.
+This script uses both the mouse and keyboard to automate the task.
 
 
 
